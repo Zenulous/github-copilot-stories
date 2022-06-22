@@ -1,0 +1,6 @@
+/* I visit the gym with my friends often
+One guy is a little bit lazy and he only wants to go to the gym once a week.
+The other guy is a little bit lazy and he only wants to go to the gym once a month.
+The last guy is a little bit lazy and he only wants to go to the gym once a year.
+And I want to know how many times I have to go to the gym in order to get the same amount of exercise as the other guys.
+*/

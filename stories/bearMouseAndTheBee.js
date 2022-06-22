@@ -1,0 +1,9 @@
+/* The bear and mouse were picknicking
+They were getting very close to each other
+A bee was buzzing around the house
+It stung the bear
+The mouse was very upset
+The honey was all gone
+The sadness was all over the house
+The story was over
+*/
